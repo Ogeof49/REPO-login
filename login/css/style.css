@@ -116,6 +116,7 @@ body {
     text-align: center;
     font-size: 14px;
     float: left;
+    color: rgb(123, 124, 124);
 }
 
 .bottom-texts {
@@ -127,10 +128,14 @@ body {
     margin-bottom: 15px;
 }
 .bottom-text a {
-    text-decoration: none;
+
     margin-left: 8px;
 }
 .bottom-text a:hover{
     color: #f08206;
+    text-decoration: none;
 
+}
+.footer-btm-down{
+    margin-bottom: 20px;
 }
